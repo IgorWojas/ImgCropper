@@ -1,5 +1,6 @@
 # ImgCropper
 A simple tool to crop images in bulk. Made to prepare datasets for NN training
+!!! GREYSCALE ONLY !!! 
 
 1. Put images you want to crop into the "in" folder (.jpg .jpeg .bmp .png)
 2. Run the program
